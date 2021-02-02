@@ -56,3 +56,4 @@ Gateway::extend('credit-card', function ($app) {
     );
 });
 ```
+ 

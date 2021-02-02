@@ -74,3 +74,4 @@ Tax::disable();
 ```
 
 > Note, when disabling taxes, the previously set taxes won't be updated or recalculated, they stay untouched.
+ 

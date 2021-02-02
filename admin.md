@@ -113,3 +113,4 @@ Event::listen('bazar.validating:'.ProductStoreRequest::class, function ($validat
     ]);
 });
 ```
+ 

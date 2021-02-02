@@ -63,3 +63,4 @@ public function product()
 ```
 
 > Note, proxies are facades. You can use the container directly, by type-hinting the contract itself, like a traditional route-model-binding in your controller.
+ 

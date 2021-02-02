@@ -72,3 +72,4 @@ Discount::disable();
 ```
 
 > Note, when disabling discounts, the previously set discounts won't be updated or recalculated, they stay untouched.
+ 

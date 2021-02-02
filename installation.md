@@ -91,3 +91,4 @@ class User extends BazarUser
 ### Configuration
 
 After install Bazar, you can find the `config/bazar.php` file, where you can configure the package. We'll talk about the specific configurations in their related documentation sections.
+ 

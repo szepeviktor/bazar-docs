@@ -133,3 +133,4 @@ protected function schedule(Schedule $schedule)
     $schedule->command('bazar:clear-chunks')->daily();
 }
 ```
+ 

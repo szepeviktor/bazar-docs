@@ -48,3 +48,4 @@ In short, when you submit code changes, your submissions are understood to be un
 ## Use a Consistent Coding Style
 
 Because this is a Laravel based project, we follow the related best practices.
+ 

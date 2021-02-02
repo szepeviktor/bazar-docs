@@ -66,3 +66,4 @@ Shipping::extend('fedex', function ($app) {
     );
 });
 ```
+ 
